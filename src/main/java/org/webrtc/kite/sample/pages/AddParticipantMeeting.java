@@ -29,7 +29,7 @@ public static final String TELEBU_PAGE = "https://join.telebu.com/";
 
 	
 	
-	public static String meetinglink ="https://staging-join.telebu.com/meeting/tCzN3Go1";
+	public static String meetinglink ="";
 	
 	//https://join.telebu.com/meeting/GnHccOJQ
 	//https://staging-join.telebu.com/meeting/4mK6gOkN
