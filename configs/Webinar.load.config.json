@@ -1,0 +1,49 @@
+    {
+	"name": "TelebuJoin Broadcast",
+	"callable": true,
+	"grids": [
+		{
+			"type": "local",
+			"url": "http://0.0.0.0:4444/wd/hub"
+		}
+	],
+	"tests": [
+		{
+			"name": "Join Webinar Test %ts",
+			"tupleSize": 5,
+			"description": "searches for telebu and initiate call",
+			"testImpl": "org.webrtc.kite.sample.test.JoinWebinarTest",
+			"payload": {
+				"takeScreenshotForEachTest": true,
+				"meetingDuration": 60,
+				"multiThread": true,
+				"sfu":true,
+	        "getStats" : {
+             	 "enabled": true,
+         		 "statsCollectionTime": 2000,
+         		 "statsCollectionInterval": 2000,
+          		"selectedStats" : ["inbound-rtp", "outbound-rtp", "candidate-pair", "track"]
+        }
+			}
+		}
+	],
+	"clients": [
+		{
+		    "browserName": "chrome",
+			"platform": "WINDOWS",
+			"useFakeMedia": true, 
+			"video": {
+				"directory": "D:\\4people\\",
+				"filename": "deadline",
+				"duration": "01:00:00",
+				"type": "Video"
+			},
+			"audio": {
+				"directory": "C:\\Users\\smsc\\Desktop\\home\\ubuntu\\Audios\\",
+				"filename": "e-dv548_lwe08_christa_casebeer_003",
+				"duration": "01:00:00",
+				"type": "Audio"
+			}
+		}
+	]
+}

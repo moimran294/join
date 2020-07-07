@@ -1,0 +1,132 @@
+
+{
+    "name": "WIN_ch-WIN_ch-WIN_ch (2020-07-07-201402) - 0",
+    "start": 1594133047945,
+    "stop": 1594133047946,
+    "description": "WIN_ch-WIN_ch-WIN_ch (2020-07-07-201402)",
+    "stage": "finished",
+    "status": "PASSED",
+    "parameters": [
+    ],
+    "steps": [
+        {
+            "name": "Filling out reports, handling payload, creating runners..",
+            "start": 1594133042122,
+            "stop": 1594133047944,
+            "description": "Filling out reports, handling payload, creating runners..",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "Creating webDriver for runner - 2",
+            "start": 1594133042209,
+            "stop": 1594133047939,
+            "description": "Creating webDriver for runner - 2",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "Creating webDriver for runner - 1",
+            "start": 1594133042209,
+            "stop": 1594133047943,
+            "description": "Creating webDriver for runner - 1",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "Cleaning up and finishing the test",
+            "start": 1594133047947,
+            "stop": 1594133047952,
+            "description": "Cleaning up and finishing the test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        }
+    ],
+    "attachments": [
+    ],
+    "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "The test has passed successfully!"
+    },
+    "uuid": "6a797c9e-b194-485f-8a80-efbd75e0f56b",
+    "fullName": "org.webrtc.kite.sample.test.JoinMeetingTest",
+    "historyId": "8ef895b1-6635-4325-b8d4-0c45ffac102d",
+    "links": [
+    ],
+    "labels": [
+        {
+            "name": "package",
+            "value": "package org.webrtc.kite.sample.test"
+        },
+        {
+            "name": "testClass",
+            "value": "class org.webrtc.kite.sample.test.JoinMeetingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "execute"
+        },
+        {
+            "name": "host",
+            "value": "LAPTOP-55QTI3A6"
+        },
+        {
+            "name": "suite",
+            "value": "Join Meeting Test  (2020-07-07-201401)"
+        },
+        {
+            "name": "parentSuite",
+            "value": "TelebuJoin Meeting [2020-07-07-201401]"
+        }
+    ]
+}

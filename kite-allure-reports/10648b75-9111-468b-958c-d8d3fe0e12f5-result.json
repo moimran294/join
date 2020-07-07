@@ -1,0 +1,543 @@
+
+{
+    "name": "WIN_ch-WIN_ch-WIN_ch (2020-07-07-211700) - 0",
+    "start": 1594136829932,
+    "stop": 1594136964729,
+    "description": "WIN_ch-WIN_ch-WIN_ch (2020-07-07-211700)",
+    "stage": "finished",
+    "status": "PASSED",
+    "parameters": [
+    ],
+    "steps": [
+        {
+            "name": "Filling out reports, handling payload, creating runners..",
+            "start": 1594136820762,
+            "stop": 1594136829919,
+            "description": "Filling out reports, handling payload, creating runners..",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "Creating webDriver for runner - 2",
+            "start": 1594136820829,
+            "stop": 1594136825407,
+            "description": "Creating webDriver for runner - 2",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "Creating webDriver for runner - 1",
+            "start": 1594136820825,
+            "stop": 1594136825407,
+            "description": "Creating webDriver for runner - 1",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "Creating webDriver for runner - 0",
+            "start": 1594136820825,
+            "stop": 1594136825411,
+            "description": "Creating webDriver for runner - 0",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Navigate to join website",
+            "start": 1594136829928,
+            "stop": 1594136835157,
+            "description": "Navigate to join website",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Get otp and login step",
+            "start": 1594136835158,
+            "stop": 1594136859947,
+            "description": "Get otp and login step",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: link checks and share with participant",
+            "start": 1594136859947,
+            "stop": 1594136860336,
+            "description": "link checks and share with participant",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Echo test",
+            "start": 1594136860336,
+            "stop": 1594136862176,
+            "description": "Echo test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Meeting Name Test",
+            "start": 1594136862176,
+            "stop": 1594136862958,
+            "description": "Meeting Name Test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Message verification Test",
+            "start": 1594136862958,
+            "stop": 1594136882297,
+            "description": "Message verification Test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Member count Verification Test",
+            "start": 1594136882297,
+            "stop": 1594136882951,
+            "description": "Member count Verification Test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: mute button Test",
+            "start": 1594136882951,
+            "stop": 1594136893213,
+            "description": "mute button Test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Lock Room Test",
+            "start": 1594136893213,
+            "stop": 1594136902261,
+            "description": "Lock Room Test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Video play/pause test",
+            "start": 1594136902262,
+            "stop": 1594136907226,
+            "description": "Video play/pause test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: connecton Data checks",
+            "start": 1594136907226,
+            "stop": 1594136910593,
+            "description": "connecton Data checks",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: FullScreen And mute all test",
+            "start": 1594136910593,
+            "stop": 1594136916057,
+            "description": "FullScreen And mute all test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Check the All videos are being received",
+            "start": 1594136916057,
+            "stop": 1594136916553,
+            "description": "Check the All videos are being received",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Resolution Test",
+            "start": 1594136916553,
+            "stop": 1594136918099,
+            "description": "Resolution Test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Screen Share Test",
+            "start": 1594136918100,
+            "stop": 1594136919367,
+            "description": "Screen Share Test",
+            "stage": "finished",
+            "status": "SKIPPED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+                {
+                    "name": "error_screenshot_ScreenSharechecks",
+                    "type": "image/png",
+                    "source": "ec6d886b-6acb-450d-a6e8-d17de0b1681c-attachment.png"
+                },
+                {
+                    "name": "error.log",
+                    "type": "text/json",
+                    "source": "c9a99922-ca10-47df-8079-77616b3af1d3-attachment.json"
+                }
+            ],
+            "statusDetails": {
+                "known": true,
+                "muted": false,
+                "flaky": false,
+                "message": "Screen Share button is not working\r\n\r\n",
+                "trace": "io.cosmosoftware.kite.exception.KiteTestException: Screen Share button is not working\r\n\r\n\r\n\tat org.webrtc.kite.sample.checks.ScreenSharechecks.step(ScreenSharechecks.java:27)\r\n\tat io.cosmosoftware.kite.steps.TestStep.execute(TestStep.java:67)\r\n\tat io.cosmosoftware.kite.steps.TestStep.processTestStep(TestStep.java:307)\r\n\tat org.webrtc.kite.tests.TestRunner.call(TestRunner.java:182)\r\n\tat java.util.concurrent.FutureTask.run(Unknown Source)\r\n\tat java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)\r\n\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)\r\n\tat java.lang.Thread.run(Unknown Source)\r\n"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Hangout",
+            "start": 1594136919367,
+            "stop": 1594136939826,
+            "description": "Hangout",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-a6960 - 0: Profile Data Test",
+            "start": 1594136939826,
+            "stop": 1594136947420,
+            "description": "Profile Data Test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-f3eb9 - 1: Participant Join script",
+            "start": 1594136829928,
+            "stop": 1594136960830,
+            "description": "Participant Join script",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "ch83_WIN-2b2b7 - 2: Participant Join script",
+            "start": 1594136829932,
+            "stop": 1594136964729,
+            "description": "Participant Join script",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        },
+        {
+            "name": "Cleaning up and finishing the test",
+            "start": 1594136964730,
+            "stop": 1594136964733,
+            "description": "Cleaning up and finishing the test",
+            "stage": "finished",
+            "status": "PASSED",
+            "parameters": [
+            ],
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "statusDetails": {
+                "known": false,
+                "muted": false,
+                "flaky": false,
+                "message": "The test has passed successfully!"
+            }
+        }
+    ],
+    "attachments": [
+    ],
+    "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "The test has passed successfully!"
+    },
+    "uuid": "10648b75-9111-468b-958c-d8d3fe0e12f5",
+    "fullName": "org.webrtc.kite.sample.test.JoinMeetingTest",
+    "historyId": "9b354f1f-81bc-494f-984e-0d4cde389a50",
+    "links": [
+    ],
+    "labels": [
+        {
+            "name": "package",
+            "value": "package org.webrtc.kite.sample.test"
+        },
+        {
+            "name": "testClass",
+            "value": "class org.webrtc.kite.sample.test.JoinMeetingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "execute"
+        },
+        {
+            "name": "host",
+            "value": "LAPTOP-55QTI3A6"
+        },
+        {
+            "name": "suite",
+            "value": "Join Meeting Test  (2020-07-07-211700)"
+        },
+        {
+            "name": "parentSuite",
+            "value": "TelebuJoin Meeting [2020-07-07-211700]"
+        }
+    ]
+}

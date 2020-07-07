@@ -1,0 +1,54 @@
+2020-07-07 20:10:14,614 INFO  - Reading 'D:\kite\KITE\Join\configs\meeting.chrome.config.json' ...
+ 2020-07-07 20:10:14,680 INFO  - new RoomManager(1) for null
+ 2020-07-07 20:10:14,681 INFO  - Finished reading the configuration file
+ 2020-07-07 20:10:14,681 INFO  - Creating report folder if not exist at :D:\kite\KITE\Join/kite-allure-reports/
+ 2020-07-07 20:10:14,692 INFO  - Running {"type":"interop","name":"Join Meeting Test %ts","testImpl":"org.webrtc.kite.sample.test.JoinMeetingTest","description":"searches for telebu and initiate call","tupleSize":3,"noOfThreads":1,"maxRetryCount":0,"delayForClosing":0,"permute":true} ...
+ 2020-07-07 20:10:15,171 INFO  - Executing {"type":"interop","name":"Join Meeting Test %ts","testImpl":"org.webrtc.kite.sample.test.JoinMeetingTest","description":"searches for telebu and initiate call","tupleSize":3,"noOfThreads":1,"maxRetryCount":0,"delayForClosing":0,"permute":true} for 1 browser tuples with size :3
+ 2020-07-07 20:10:15,181 INFO  - current phase in test manager has been set to DEFAULT
+ 2020-07-07 20:10:15,196 INFO  - 
+           |--------------------------------------------------
+           | Number of registered tests: 0
+           | Elapsed time: 0m0s (avg:0m0s)
+           | Running test case with ID: 0/1
+           | ETA (for Join Meeting Test %ts): Estimating..
+           |--------------------------------------------------
+ 2020-07-07 20:10:15,197 INFO  - execute(DEFAULT) for the test case: WIN_ch-WIN_ch-WIN_ch (2020-07-07-201015)
+ 2020-07-07 20:10:15,203 INFO  - Not load test, init report for test
+ 2020-07-07 20:10:15,220 INFO  - Finished filling out initial report for phase 
+ 2020-07-07 20:10:15,221 INFO  - payload handling
+ 2020-07-07 20:10:15,223 INFO  - the payload is {"takeScreenshotForEachTest":true,"meetingDuration":60,"multiThread":true,"sfu":true}
+ 2020-07-07 20:10:15,309 INFO  - Creating runners
+ 2020-07-07 20:10:15,312 INFO  - Start creating the TestRunner id 0 in 0ms
+ 2020-07-07 20:10:15,312 INFO  - Start creating the TestRunner id 1 in 0ms
+ 2020-07-07 20:10:15,313 INFO  - Start creating the TestRunner id 2 in 0ms
+ 2020-07-07 20:10:15,335 INFO  - Creating web driver for {"app":false,"kind":"browser","logger":{"name":"org.webrtc.kite.config.client.Client","debugEnabled":true},"count":5,"clientIndex":0,"fullReset":false,"jsonConfig":{"_video":{"duration":{},"filename":{},"type":{},"directory":{}},"browserName":{},"platform":{},"_audio":{"duration":{},"filename":{},"type":{},"directory":{}},"useFakeMedia":"true"},"capability":{"headless":false,"windowSize":"1920,1200","technologyPreview":false,"useFakeMedia":true,"flags":[],"extraCapabilities":{},"maxInstances":5,"gateway":"none"},"paas":{"availableSlots":0,"type":"local","region":"NC","url":"http://0.0.0.0:4444/wd/hub"},"name":"1","exclude":false,"browserSpecs":{"extension":"","profile":"","driverString":"-Dwebdriver.chrome.driver=./chromedriver","browserName":"chrome","deviceName":"unknown","platform":"WINDOWS"},"region":"NC"}
+ 2020-07-07 20:10:15,335 INFO  - Creating web driver for {"app":false,"kind":"browser","logger":{"name":"org.webrtc.kite.config.client.Client","debugEnabled":true},"count":5,"clientIndex":0,"fullReset":false,"jsonConfig":{"_video":{"duration":{},"filename":{},"type":{},"directory":{}},"browserName":{},"platform":{},"_audio":{"duration":{},"filename":{},"type":{},"directory":{}},"useFakeMedia":"true"},"capability":{"headless":false,"windowSize":"1920,1200","technologyPreview":false,"useFakeMedia":true,"flags":[],"extraCapabilities":{},"maxInstances":5,"gateway":"none"},"paas":{"availableSlots":0,"type":"local","region":"NC","url":"http://0.0.0.0:4444/wd/hub"},"name":"0","exclude":false,"browserSpecs":{"extension":"","profile":"","driverString":"-Dwebdriver.chrome.driver=./chromedriver","browserName":"chrome","deviceName":"unknown","platform":"WINDOWS"},"region":"NC"}
+ 2020-07-07 20:10:15,335 INFO  - Creating web driver for {"app":false,"kind":"browser","logger":{"name":"org.webrtc.kite.config.client.Client","debugEnabled":true},"count":5,"clientIndex":0,"fullReset":false,"jsonConfig":{"_video":{"duration":{},"filename":{},"type":{},"directory":{}},"browserName":{},"platform":{},"_audio":{"duration":{},"filename":{},"type":{},"directory":{}},"useFakeMedia":"true"},"capability":{"headless":false,"windowSize":"1920,1200","technologyPreview":false,"useFakeMedia":true,"flags":[],"extraCapabilities":{},"maxInstances":5,"gateway":"none"},"paas":{"availableSlots":0,"type":"local","region":"NC","url":"http://0.0.0.0:4444/wd/hub"},"name":"2","exclude":false,"browserSpecs":{"extension":"","profile":"","driverString":"-Dwebdriver.chrome.driver=./chromedriver","browserName":"chrome","deviceName":"unknown","platform":"WINDOWS"},"region":"NC"}
+ 2020-07-07 20:10:26,472 INFO  - Starting the execution of the test runners in parallel 
+ 2020-07-07 20:10:26,475 INFO  - Start processing the TestRunner(DEFAULT) id 0 in 0ms
+ 2020-07-07 20:10:26,475 INFO  - Start processing the TestRunner(DEFAULT) id 1 in 0ms
+ 2020-07-07 20:10:26,477 INFO  - Start processing the TestRunner(DEFAULT) id 2 in 0ms
+ 2020-07-07 20:10:31,202 INFO  - ch83_WIN-e182b - 0:  [PASSED] Navigate to join website
+ 2020-07-07 20:10:31,773 ERROR - Step failed:
+   message = Room creation failed
+
+ 2020-07-07 20:10:31,780 INFO  - ch83_WIN-e182b - 0:  [FAILED] Get otp and login step
+ 2020-07-07 20:10:31,781 WARN  - ch83_WIN-e182b - 0: [SKIPPING] link checks and share with participant
+ 2020-07-07 20:10:31,782 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Echo test
+ 2020-07-07 20:10:31,782 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Meeting Name Test
+ 2020-07-07 20:10:31,783 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Message verification Test
+ 2020-07-07 20:10:31,783 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Member count Verification Test
+ 2020-07-07 20:10:31,783 WARN  - ch83_WIN-e182b - 0: [SKIPPING] mute button Test
+ 2020-07-07 20:10:31,784 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Lock Room Test
+ 2020-07-07 20:10:31,784 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Video play/pause test
+ 2020-07-07 20:10:31,785 WARN  - ch83_WIN-e182b - 0: [SKIPPING] connecton Data checks
+ 2020-07-07 20:10:31,786 WARN  - ch83_WIN-e182b - 0: [SKIPPING] FullScreen And mute all test
+ 2020-07-07 20:10:31,786 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Check the All videos are being received
+ 2020-07-07 20:10:31,787 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Resolution Test
+ 2020-07-07 20:10:31,787 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Screen Share Test
+ 2020-07-07 20:10:31,789 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Hangout
+ 2020-07-07 20:10:31,789 WARN  - ch83_WIN-e182b - 0: [SKIPPING] Profile Data Test
+ 2020-07-07 20:12:13,211 WARN  - ch83_WIN-0f32e - 1: [SKIPPING] Participant Join script
+ 2020-07-07 20:12:13,212 WARN  - ch83_WIN-15b54 - 2: [SKIPPING] Participant Join script
+ 2020-07-07 20:12:13,213 INFO  - Terminating, quiting webdriver
+ 

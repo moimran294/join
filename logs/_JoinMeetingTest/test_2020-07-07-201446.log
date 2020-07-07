@@ -1,0 +1,39 @@
+2020-07-07 20:14:46,487 INFO  - execute(DEFAULT) for the test case: WIN_ch-WIN_ch-WIN_ch (2020-07-07-201446)
+2020-07-07 20:14:46,491 INFO  - Not load test, init report for test
+2020-07-07 20:14:46,501 INFO  - Finished filling out initial report for phase 
+2020-07-07 20:14:46,501 INFO  - payload handling
+2020-07-07 20:14:46,502 INFO  - the payload is {"takeScreenshotForEachTest":true,"meetingDuration":60,"multiThread":true,"sfu":true}
+2020-07-07 20:14:46,553 INFO  - Creating runners
+2020-07-07 20:14:46,555 INFO  - Start creating the TestRunner id 0 in 0ms
+2020-07-07 20:14:46,555 INFO  - Start creating the TestRunner id 1 in 0ms
+2020-07-07 20:14:46,555 INFO  - Start creating the TestRunner id 2 in 0ms
+2020-07-07 20:14:46,571 INFO  - Creating web driver for {"app":false,"kind":"browser","logger":{"name":"org.webrtc.kite.config.client.Client","debugEnabled":true},"count":5,"clientIndex":0,"fullReset":false,"jsonConfig":{"_video":{"duration":{},"filename":{},"type":{},"directory":{}},"browserName":{},"platform":{},"_audio":{"duration":{},"filename":{},"type":{},"directory":{}},"useFakeMedia":"true"},"capability":{"headless":false,"windowSize":"1920,1200","technologyPreview":false,"useFakeMedia":true,"flags":[],"extraCapabilities":{},"maxInstances":5,"gateway":"none"},"paas":{"availableSlots":0,"type":"local","region":"NC","url":"http://0.0.0.0:4444/wd/hub"},"name":"0","exclude":false,"browserSpecs":{"extension":"","profile":"","driverString":"-Dwebdriver.chrome.driver=./chromedriver","browserName":"chrome","deviceName":"unknown","platform":"WINDOWS"},"region":"NC"}
+2020-07-07 20:14:46,571 INFO  - Creating web driver for {"app":false,"kind":"browser","logger":{"name":"org.webrtc.kite.config.client.Client","debugEnabled":true},"count":5,"clientIndex":0,"fullReset":false,"jsonConfig":{"_video":{"duration":{},"filename":{},"type":{},"directory":{}},"browserName":{},"platform":{},"_audio":{"duration":{},"filename":{},"type":{},"directory":{}},"useFakeMedia":"true"},"capability":{"headless":false,"windowSize":"1920,1200","technologyPreview":false,"useFakeMedia":true,"flags":[],"extraCapabilities":{},"maxInstances":5,"gateway":"none"},"paas":{"availableSlots":0,"type":"local","region":"NC","url":"http://0.0.0.0:4444/wd/hub"},"name":"2","exclude":false,"browserSpecs":{"extension":"","profile":"","driverString":"-Dwebdriver.chrome.driver=./chromedriver","browserName":"chrome","deviceName":"unknown","platform":"WINDOWS"},"region":"NC"}
+2020-07-07 20:14:46,571 INFO  - Creating web driver for {"app":false,"kind":"browser","logger":{"name":"org.webrtc.kite.config.client.Client","debugEnabled":true},"count":5,"clientIndex":0,"fullReset":false,"jsonConfig":{"_video":{"duration":{},"filename":{},"type":{},"directory":{}},"browserName":{},"platform":{},"_audio":{"duration":{},"filename":{},"type":{},"directory":{}},"useFakeMedia":"true"},"capability":{"headless":false,"windowSize":"1920,1200","technologyPreview":false,"useFakeMedia":true,"flags":[],"extraCapabilities":{},"maxInstances":5,"gateway":"none"},"paas":{"availableSlots":0,"type":"local","region":"NC","url":"http://0.0.0.0:4444/wd/hub"},"name":"1","exclude":false,"browserSpecs":{"extension":"","profile":"","driverString":"-Dwebdriver.chrome.driver=./chromedriver","browserName":"chrome","deviceName":"unknown","platform":"WINDOWS"},"region":"NC"}
+2020-07-07 20:14:56,924 INFO  - Starting the execution of the test runners in parallel 
+2020-07-07 20:14:56,926 INFO  - Start processing the TestRunner(DEFAULT) id 0 in 0ms
+2020-07-07 20:14:56,926 INFO  - Start processing the TestRunner(DEFAULT) id 2 in 0ms
+2020-07-07 20:14:56,926 INFO  - Start processing the TestRunner(DEFAULT) id 1 in 0ms
+2020-07-07 20:15:01,692 INFO  - ch83_WIN-e91d9 - 0:  [PASSED] Navigate to join website
+2020-07-07 20:15:02,697 ERROR - Step failed:
+   message = Room creation failed
+
+2020-07-07 20:15:02,702 INFO  - ch83_WIN-e91d9 - 0:  [FAILED] Get otp and login step
+2020-07-07 20:15:02,703 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] link checks and share with participant
+2020-07-07 20:15:02,703 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Echo test
+2020-07-07 20:15:02,704 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Meeting Name Test
+2020-07-07 20:15:02,705 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Message verification Test
+2020-07-07 20:15:02,707 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Member count Verification Test
+2020-07-07 20:15:02,707 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] mute button Test
+2020-07-07 20:15:02,708 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Lock Room Test
+2020-07-07 20:15:02,708 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Video play/pause test
+2020-07-07 20:15:02,709 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] connecton Data checks
+2020-07-07 20:15:02,709 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] FullScreen And mute all test
+2020-07-07 20:15:02,710 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Check the All videos are being received
+2020-07-07 20:15:02,710 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Resolution Test
+2020-07-07 20:15:02,711 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Screen Share Test
+2020-07-07 20:15:02,712 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Hangout
+2020-07-07 20:15:02,712 WARN  - ch83_WIN-e91d9 - 0: [SKIPPING] Profile Data Test
+2020-07-07 21:16:42,106 WARN  - ch83_WIN-7fb88 - 1: [SKIPPING] Participant Join script
+2020-07-07 21:16:42,107 WARN  - ch83_WIN-b0cff - 2: [SKIPPING] Participant Join script
+2020-07-07 21:16:42,107 INFO  - Terminating, quiting webdriver
